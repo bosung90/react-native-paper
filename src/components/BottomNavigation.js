@@ -894,7 +894,7 @@ const styles = StyleSheet.create({
   },
   iconContainer: {
     height: 24,
-    width: 24,
+    width: 80,
     marginHorizontal: 12,
     alignSelf: 'center',
   },
